@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 I'm a postgraduate student from Shantou University Medical College (https://www.med.stu.edu.cn/). My research interest includes cancer biology, cancer bioinformatics, cancer diagnosis and treatment.
-You can find my CV here: [Linting Zhang's Curriculum Vitae] ().
-[Email] (mailto: 17ltzhang@stu.edu.cn) / [Github] (https://github.com/LintingZhang) / [Wechat] ().
+You can find my CV here: [Linting Zhang's Curriculum Vitae] (https://github.com/LintingZhang/assets/Curriculum_Vitae.pdf).
+[Email] (mailto: 17ltzhang@stu.edu.cn) / [Github] (https://github.com/LintingZhang) / [Wechat] (https://github.com/LintingZhang/images/Wechat.jpg).
